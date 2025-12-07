@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title":"Breaking Bad",
+        "year":2000,
+        "seasons":5,
+        "episodes":62
+    },
+    {
+        "id":2,
+        "title":"The Office",
+        "year":2005,
+        "seasons":9,
+        "episodes":201
+    },
+    {
+        "id":3,
+        "title":"Game of Thrones",
+        "year":2011,
+        "seasons":8,
+        "episodes":73
+    },
+    {
+        "id":4,
+        "title":"Stranger Things",
+        "year":2016,
+        "seasons":4,
+        "episodes":34
+    },
+    {
+        "id":5,
+        "title":"Sherlock",
+        "year":2010,
+        "seasons":4,
+        "episodes":13
+    },
+    {
+        "id":6,
+        "title":"The Mandalorian",
+        "year":2019,
+        "seasons":3,
+        "episodes":24
+    },
+    {
+        "id":7,
+        "title":"The Witcher",
+        "year":2019,
+        "seasons":3,
+        "episodes":24
+    },
+    {
+        "id":8,
+        "title":"Peaky Blinders",
+        "year":2013,
+        "seasons":6,
+        "episodes":36
+    },
+    {
+        "id":9,
+        "title":"The Boys",
+        "year":2019,
+        "seasons":4,
+        "episodes":32
+    },
+    {
+        "id":10,
+        "title":"Dark",
+        "year":2017,
+        "seasons":3,
+        "episodes":26
+    }
+]
